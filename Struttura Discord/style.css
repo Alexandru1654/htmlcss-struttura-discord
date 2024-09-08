@@ -1,0 +1,169 @@
+/* Universal styles*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/*Header styles*/
+.contain {
+    width: 100%;
+    height: 70px;
+    padding-top: 15px;
+    background-color: lightblue;
+}
+
+.box {
+    width: 1000px;
+    height: 45px;
+    margin: auto;
+    border: dotted;
+    background-color: orange;
+}
+
+/*Heading styles*/
+h1 {
+    text-align: center;
+    display: inline-block;
+    width: 89%;
+    font-size: 23px;
+}
+
+#subject {
+    display: inline-block;
+    border-right: dotted;
+    height: 100%;
+}
+
+#row {
+    display: inline-block;
+    border-left: dotted;
+    height: 100%;
+}
+
+/*Section styles*/
+.container {
+    width: 100%;
+    height: 300px;
+    padding-top: 20px;
+    background-color: rgb(5, 5, 135);
+}
+
+#pink-section {
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    border: dotted;
+    background-color: rgb(234, 121, 205);
+}
+
+.contained {
+    width: 100%;
+    height: 300px;
+    padding-top: 20px;
+}
+
+.blue-section {
+    width: 600px;
+    height: 250px;
+    margin: auto;
+    border: dotted;
+    background: linear-gradient(to right, rgb(49, 102, 235) 60%, pink 40%);
+}
+
+.content {
+    width: 100%;
+    height: 300px;
+    padding-top: 20px;
+    background-color: pink;
+}
+
+#red-section {
+    width: 600px;
+    height: 250px;
+    margin: auto;
+    background: linear-gradient(to right, rgba(170, 139, 144, 0.831) 40%, rgb(49, 102, 235) 40%);
+}
+
+.contained {
+    width: 100%;
+    height: 300px;
+    padding-top: 20px;
+}
+
+.containe {
+    width: 100%;
+    height: 430px;
+    padding-top: 20px;
+    background-color: pink;
+}
+
+#green-section {
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    background-color: green;
+}
+
+.containee {
+    width: 100%;
+    height: 300px;
+    padding-top: 20px;
+    background-color: rgb(53, 51, 51);
+}
+
+#orange-section {
+    width: 600px;
+    height: 250px;
+    margin: auto;
+    background: linear-gradient(to right, rgb(220, 117, 134) 40%, rgba(26, 202, 143, 0.699) 40%);
+}
+
+.line {
+    background-color: white;
+    width: 3px;
+    height: 250px;
+    margin-left: 500px;
+}
+
+/*footer styles*/
+.boxes {
+    background-color: rgb(53, 51, 51);
+}
+
+.contines {
+    width: 100%;
+    height: 70px;
+    padding-top: 15px;
+    background-color: rgb(53, 51, 51);
+}
+
+.boxes {
+    width: 1000px;
+    height: 45px;
+    margin: auto;
+    border: dotted;
+    background-color: aquamarine;
+}
+
+#subjects {
+    border-left: dotted;
+    display: inline-block;
+    width: 5%;
+    background-color: pink;
+}
+
+#rows {
+    display: inline-block;
+    margin-left: 863px;
+    margin-top: 8px;
+    background-color: pink;
+}
+
+/*Footer background color*/
+footer {
+    background-color: rgb(53, 51, 51);
+    padding-top: 20px;
+}
+
+
